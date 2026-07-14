@@ -37,7 +37,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 &nbsp;**BS Artificial Intelligence** @ National Textile University *(6th semester)*
-- ⚡ &nbsp;Focused on **Smart Contracts** *(Solidity • Foundry)* and **Deep Learning** *(Vision Transformers)*
+- ⚡ &nbsp;Focused on **Smart Contracts** *(Solidity • Foundry)* and **Deep Learning** *(Vision Transformer)*
 - 🔭 &nbsp;Building **[0xInnovations](https://0xinnovations.vercel.app/)** — a Web3 lab for smart-contract projects & testnet tooling
 - 🌱 &nbsp;Currently leveling up in **dApp architecture** & **smart-contract security**
 - 📜 &nbsp;Certified: **Solidity & Foundry** *(Cyfrin Updraft)* · **ML & Blockchain** *(Coursera)*
